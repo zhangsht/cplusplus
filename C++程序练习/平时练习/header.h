@@ -1,0 +1,5 @@
+class myV {
+    myV();
+    ~myV();
+};
+
